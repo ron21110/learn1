@@ -1,0 +1,26 @@
+ul.adminmenu_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul.adminmenu_list li {
+    margin: 5px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+h3.titlle_admin {
+    font-size: 40px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.container{
+    border: 1px solid black;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+
+}
